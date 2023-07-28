@@ -1,0 +1,11 @@
+.cont-header-li{
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    border: 1px solid black;
+    list-style: none;
+}   
+a{
+    text-decoration: none;
+    color: black;
+}
